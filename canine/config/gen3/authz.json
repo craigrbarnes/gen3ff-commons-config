@@ -10,7 +10,7 @@
       "loginRequired": false
     },
     "*": {
-      "loginRequired": true
+      "loginRequired": false
     }
   }
 }

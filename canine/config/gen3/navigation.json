@@ -7,7 +7,7 @@
     },
     "logo": {
       "src": "/icons/gen3-dark.png",
-      "width": 256,
+      "width": 200,
       "height": 128,
       "href": "/"
     },
@@ -43,11 +43,6 @@
       "root" : "bg-primary"
     },
     "items": [
-      {
-        "rightIcon": "gen3:upload",
-        "href": "/submission",
-        "name": "Submit Data"
-      },
       {
         "href": "https://gen3.org/resources/user/",
         "name": "Documentation"
